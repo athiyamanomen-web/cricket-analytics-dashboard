@@ -51,7 +51,7 @@ button[data-baseweb="tab"]:hover {
 </style>
 """, unsafe_allow_html=True)
 
-RAPIDAPI_KEY = "ca82725572msh7794348cec8a7d9p1fcfb0jsne446ed9dd21f"  # <-- paste your key here
+RAPIDAPI_KEY = ""  # <-- paste your key here
 RAPIDAPI_HOST = "cricbuzz-cricket.p.rapidapi.com"
 BASE_PLAYER = "https://cricbuzz-cricket.p.rapidapi.com/stats/v1/player"
 SEARCH_URL = "https://cricbuzz-cricket.p.rapidapi.com/stats/v1/player/search?plrN={query}"
