@@ -27,7 +27,7 @@ BASE_URL = "https://cricbuzz-cricket.p.rapidapi.com"
 # Put your regenerated key in .streamlit/secrets.toml like:
 # RAPIDAPI_KEY = "your_new_key_here"
 try:
-    RAPIDAPI_KEY = "ca82725572msh7794348cec8a7d9p1fcfb0jsne446ed9dd21f"
+    RAPIDAPI_KEY = ""
 except Exception:
     RAPIDAPI_KEY = None
 
