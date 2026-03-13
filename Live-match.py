@@ -24,8 +24,7 @@ import streamlit as st
 
 BASE_URL = "https://cricbuzz-cricket.p.rapidapi.com"
 
-# Put your regenerated key in .streamlit/secrets.toml like:
-# RAPIDAPI_KEY = "your_new_key_here"
+# RAPIDAPI_KEY = "your_key_here"
 try:
     RAPIDAPI_KEY = ""
 except Exception:
