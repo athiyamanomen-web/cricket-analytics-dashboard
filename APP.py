@@ -1,6 +1,6 @@
 # app.py
 # Streamlit: type player name -> choose player -> load profile
-# Layout (like your sketch):
+# Layout :
 #   Row 1: Player Info | Rankings (tabs) + Teams
 #   Row 2: Recent Performance (tabs: Batting/Bowling)
 #   Row 3: Batting Career Summary | Bowling Career Summary
